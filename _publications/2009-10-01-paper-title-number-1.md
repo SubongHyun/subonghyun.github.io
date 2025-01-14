@@ -1,11 +1,5 @@
----
-title: "Beam-filter-based dual-energy CT imaging by use of sinogram streaking"
-collection: publications
-category: domestic conferences
-venue: "2019 IEEE Nuclear Science Symposium (NSS) and Medical Imaging Conference (MIC)"
-authors: 'Sanghoon Cho, **Seoyoung Lee**, Jongha Lee, Seungryong Cho'
-type: Poster
-excerpt: ''
-date: 2019-11-01
-location: "Manchester, UK"
----
+## International Journal Papers
+
+1. Kim H, Wang C, Byun H, Hu W, *Kim S*, Jiao Q, Lee TH* (2023)  
+   Variable three-term conjugate gradient method for training artificial neural networks.  
+   Neural Networks 159:125–136. https://doi.org/10.1016/j.neunet.2022.12.001
