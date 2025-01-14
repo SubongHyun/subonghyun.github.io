@@ -80,9 +80,9 @@ publication_category:
     title: 'Books'
   manuscripts:
     title: 'Journal Articles'    
-  conferences:
+  international conferences:
     title: 'International Conference'
-  conferences:
+  domastic conferences:
     title: 'Domestic Conference (Korea)'
 
 # Site Settings
