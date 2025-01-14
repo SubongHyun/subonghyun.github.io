@@ -29,6 +29,6 @@ _**Outstanding Poster Award**_, Korean Society of Medical Physics (KSMP), May 20
 
 💻Reasearch interests
 ======
-1. CT image reconstruction (sparse-view and metal artifact reduction)
-2. Digital breast tomosynthesis (motion blur and scatter)
-3. AI application in medical imaging (convolutional neural network, generative model and diffusion model)
+1. CT image reconstruction (sparse-view reconstruction and metal artifact reduction)
+2. Digital breast tomosynthesis (motion blur and scatter correction)
+3. AI application in medical imaging (convolutional neural network, generative adversarial networks and denoising probabilistic diffusion model)
