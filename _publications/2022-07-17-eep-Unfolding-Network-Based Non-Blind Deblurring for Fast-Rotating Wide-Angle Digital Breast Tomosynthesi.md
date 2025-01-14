@@ -1,5 +1,5 @@
 ---
-title: "Deep-Unfolding-Network-Based Non-Blind Deblurring for Fast-Rotating Wide-Angle Digital Breast Tomosynthesis"
+title: "2. Deep-Unfolding-Network-Based Non-Blind Deblurring for Fast-Rotating Wide-Angle Digital Breast Tomosynthesis"
 collection: publications
 category: international conferences
 authors: '**Subong Hyun**, Seoyoung Lee, Hyeongseok Kim, Seungryong Cho'
