@@ -11,20 +11,20 @@ Welcome! I'm Subong Hyun, a Ph.D. candidate in Nuclear and Quantum Engineering a
 
 Education
 ======
-- **Doctor of Philosophy in Mechanical Engineering, KAIST, Daejeon, Korea, March 2023 ~ Present
-Advisor: Prof. Seungryong Cho
+**Doctor of Philosophy in Mechanical Engineering, KAIST, Daejeon, Korea, March 2023 ~ Present**
+- Advisor: Prof. Seungryong Cho
 
-- **Master of Science in Nuclear and Quantum Engineering, KAIST, Daejeon, South Korea, February 2023
+**Master of Science in Nuclear and Quantum Engineering, KAIST, Daejeon, South Korea, February 2023**
 Thesis: Deep-unfolding-network-based non-blind deblurring for fast-rotating wide-angle digital breast tomosynthesis
-Advisor: Prof. Seungryong Cho
+- Advisor: Prof. Seungryong Cho
 
-- **Bachelor of Science in Nuclear Engineering, Hanyang University, Seoul, South Korea, February 2021
-Summa Cum Laude (GPA: 4.09/4.50)
+**Bachelor of Science in Nuclear Engineering, Hanyang University, Seoul, South Korea, February 2021**
+- _Summa Cum Laude_ (GPA: 4.09/4.50)
 
-🏆 Honors & Awards
+Honors & Awards
 ======
-_**Academic Excellent Award**_, Korean Society of Imaging Informatic in Medicine, JULY, 2024
-_**Outstanding Poster Award**_, Korean Society of Medical Physics (KSMP) Spring Conference, May, 2024
+_**Academic Excellent Award**_, Korean Society of Imaging Informatic in Medicine (KSIIM), JULY, 2024
+_**Outstanding Poster Award**_, Korean Society of Medical Physics (KSMP), May, 2024
 
 Reasearch interests
 ======
