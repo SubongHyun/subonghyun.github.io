@@ -1,5 +1,5 @@
 ---
-title: "1. Novel Method for Reducing the Effect of Source Motion Blur on Digital Breast Tomosynthesis"
+title: "Novel Method for Reducing the Effect of Source Motion Blur on Digital Breast Tomosynthesis"
 collection: publications
 category: domestic conferences
 permalink: /
