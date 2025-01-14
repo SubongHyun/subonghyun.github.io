@@ -1,7 +1,16 @@
 ---
-## International Journal Papers
-
-1. Kim H, Wang C, Byun H, Hu W, *Kim S*, Jiao Q, Lee TH* (2023)  
-   Variable three-term conjugate gradient method for training artificial neural networks.  
-   Neural Networks 159:125–136. https://doi.org/10.1016/j.neunet.2022.12.001
+title: "Convolutional-neural-network based breast thickness correction in digital breast tomosynthesis"
+collection: publications
+category: conferences
+permalink: /publication/2020-05-22-Convolutional-neural-network based breast thickness correction in digital breast tomosynthesis
+authors: '**Seoyoung Lee**, Hyeongseok Kim, Hoyeon Lee, Uijin Jeong, Seungryong Cho'
+excerpt: ''
+date: 2020-05-22
+venue: '15th International Workshop on Breast Imaging (IWBI2020)'
+paperurl: 'https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11513/2560909/Convolutional-neural-network-based-breast-thickness-correction-in-digital-breast/10.1117/12.2560909.full'
 ---
+
+
+**Seoyoung Lee**, Hyeongseok Kim, Hoyeon Lee, Uijin Jeong, Seungryong Cho  
+- Convolutional neural network design
+- Training and analysis
