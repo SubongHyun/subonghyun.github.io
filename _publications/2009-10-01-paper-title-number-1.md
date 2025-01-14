@@ -1,3 +1,4 @@
+---
 title: "Convolutional-neural-network based breast thickness correction in digital breast tomosynthesis"
 collection: publications
 category: conferences
