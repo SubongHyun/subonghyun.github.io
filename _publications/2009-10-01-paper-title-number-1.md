@@ -1,7 +1,7 @@
 ---
 title: "Convolutional-neural-network based breast thickness correction in digital breast tomosynthesis"
 collection: publications
-category: conferences
+category: international conferences
 permalink: /publication/2020-05-22-Convolutional-neural-network based breast thickness correction in digital breast tomosynthesis
 authors: '**Seoyoung Lee**, Hyeongseok Kim, Hoyeon Lee, Uijin Jeong, Seungryong Cho'
 excerpt: ''
