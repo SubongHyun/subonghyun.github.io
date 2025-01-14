@@ -6,5 +6,5 @@ permalink: /
 authors: '**Jeongtae Soh**, Subong Hyun, Mikkiko Ito, Young-jun Jung, Tae-hyung Kim, Seungryong Cho'
 excerpt: ''
 date: 2023-02-22
-venue: 'Physics of Medical Imaging (SPIE)'
+venue: 'Poster, Physics of Medical Imaging (SPIE)'
 ---
