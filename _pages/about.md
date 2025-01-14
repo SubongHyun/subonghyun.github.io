@@ -15,7 +15,7 @@ Education
 - Advisor: Prof. Seungryong Cho
 
 **Master of Science in Nuclear and Quantum Engineering, KAIST, Daejeon, South Korea, February 2023**
-Thesis: Deep-unfolding-network-based non-blind deblurring for fast-rotating wide-angle digital breast tomosynthesis
+- Thesis: Deep-unfolding-network-based non-blind deblurring for fast-rotating wide-angle digital breast tomosynthesis
 - Advisor: Prof. Seungryong Cho
 
 **Bachelor of Science in Nuclear Engineering, Hanyang University, Seoul, South Korea, February 2021**
