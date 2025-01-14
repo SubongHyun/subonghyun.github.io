@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Subong Hyun"
-  pronouns         : # example: "he/him"  
+  pronouns         : "he/him"# example: "he/him"  
   bio              : "Ph.D. Candidate"
   location         : "Daejeon, South Korea"
   employer         : "KAIST"
