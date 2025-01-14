@@ -23,8 +23,9 @@ Education
 
 Honors & Awards
 ======
-_**Academic Excellent Award**_, Korean Society of Imaging Informatic in Medicine (KSIIM), JULY, 2024
-_**Outstanding Poster Award**_, Korean Society of Medical Physics (KSMP), May, 2024
+_**Academic Excellent Award**_, Korean Society of Imaging Informatic in Medicine (KSIIM), July 2024
+
+_**Outstanding Poster Award**_, Korean Society of Medical Physics (KSMP), May 2024
 
 Reasearch interests
 ======
