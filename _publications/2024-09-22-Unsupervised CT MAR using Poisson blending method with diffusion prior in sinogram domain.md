@@ -1,5 +1,5 @@
 ---
-title: "9. Unsupervised CT MAR using Poisson blending method with diffusion prior in sinogram domain"
+title: "10. Unsupervised CT MAR using Poisson blending method with diffusion prior in sinogram domain"
 collection: publications
 category: international conferences
 permalink: /presentations/2024-09-22-Unsupervised CT MAR using Poisson blending method wi
