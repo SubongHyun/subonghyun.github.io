@@ -1,7 +1,8 @@
 ---
-title: "A YOLO-based learning lesion classifier of pre-exposure scan in digital breast tomosynthesis"
+title: "6. A YOLO-based learning lesion classifier of pre-exposure scan in digital breast tomosynthesis"
 collection: publications
 category: international conferences
+permalink: /presentations/2024-06-22-A YOLO-based learning lesion classifier of pre-exposure scan in digital breast tomosynthesis
 authors: '**Seoyoung Lee**, Subong Hyun, Donghyun Kim, Seungryong Cho'
 excerpt: ''
 date: 2024-06-22
