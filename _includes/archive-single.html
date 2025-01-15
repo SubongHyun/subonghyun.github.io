@@ -7,7 +7,7 @@
 {% endif %}
 
 {% if post.id %}
-  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+  {% assign title = post.title %}
 {% else %}
   {% assign title = post.title %}
 {% endif %}
@@ -28,7 +28,7 @@
 
     <!-- Title is no longer clickable -->
     <h2 class="archive__item-title" itemprop="headline" style="font-size: 1.0em">
-      {{ forloop.index }}. {{ title }}
+      {{ title }}
     </h2>
 
     
