@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I'm Subong Hyun, a Ph.D. candidate in Nuclear and Quantum Engineering at KAIST, South Korea. My academic journey began with a B.S. in Nuclear Engineering from Hanyang University, followed by an M.S. from KAIST. My research passion lies in advancing X-ray imaging and exploring the intersection of deep learning and medical imaging, with a focus on CT reconstruction (sparse-view and metal artifact reduction) and digital breast tomosynthesis. Thank you for visiting my page!
+Welcome! I'm Subong Hyun, a Ph.D. candidate in Nuclear and Quantum Engineering at KAIST, South Korea. My academic journey began with a B.S. in Nuclear Engineering from Hanyang University, followed by an M.S. from KAIST. My research passion lies in advancing X-ray imaging and exploring the intersection of deep learning and medical imaging, with a focus on Computed Tomography and Digital Breast Tomosynthesis. Thank you for visiting my webpage!
 
 🎓Education
 ======
-**Doctor of Philosophy in Nuclear and Quantum Engineering, KAIST, Daejeon, Korea, March 2023 ~ Present**
+**Doctor of Philosophy in Nuclear and Quantum Engineering, KAIST, Daejeon, South Korea, March 2023 - Present**
 - Advisor: Prof. Seungryong Cho
 
 **Master of Science in Nuclear and Quantum Engineering, KAIST, Daejeon, South Korea, February 2023**
@@ -23,12 +23,12 @@ Welcome! I'm Subong Hyun, a Ph.D. candidate in Nuclear and Quantum Engineering a
 
 🏆Honors & Awards
 ======
-_**Academic Excellent Award**_, Korean Society of Imaging Informatic in Medicine (KSIIM), July 2024
+_**Academic Excellence Award**_, Korean Society of Imaging Informatic in Medicine (KSIIM), July 2024
 
 _**Outstanding Poster Award**_, Korean Society of Medical Physics (KSMP), May 2024
 
-💻Reasearch interests
+💻Research interests
 ======
-1. CT image reconstruction (sparse-view reconstruction and metal artifact reduction)
-2. Digital breast tomosynthesis (motion blur and scatter correction)
+1. Computed Tomography (sparse-view reconstruction and metal artifact reduction)
+2. Digital Breast Tomosynthesis (motion blur and scatter correction)
 3. AI application in medical imaging (convolutional neural network, generative adversarial networks and denoising probabilistic diffusion model)
