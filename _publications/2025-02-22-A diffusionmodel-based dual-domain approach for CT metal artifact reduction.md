@@ -1,5 +1,5 @@
 ---
-title: "10. A diffusion model-based dual-domain approach for CT metal artifact reduction"
+title: "11. A diffusion model-based dual-domain approach for CT metal artifact reduction"
 collection: publications
 category: international conferences
 permalink: /presentations/2025-02-22-A diffusion model-based dual-domain approach for CT metal artifact reduction
