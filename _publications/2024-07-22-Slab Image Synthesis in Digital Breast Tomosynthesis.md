@@ -1,5 +1,5 @@
 ---
-title: "Slab Image Synthesis in Digital Breast Tomosynthesis"
+title: "8. Slab Image Synthesis in Digital Breast Tomosynthesis"
 collection: publications
 category: international conferences
 permalink: /presentations/2024-07-22-Slab Image Synthesis
