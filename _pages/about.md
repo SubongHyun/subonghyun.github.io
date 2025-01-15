@@ -11,7 +11,7 @@ Welcome! I'm Subong Hyun, a Ph.D. candidate in Nuclear and Quantum Engineering a
 
 🎓Education
 ======
-**Doctor of Philosophy in Mechanical Engineering, KAIST, Daejeon, Korea, March 2023 ~ Present**
+**Doctor of Philosophy in Nuclear and Quantum Engineering, KAIST, Daejeon, Korea, March 2023 ~ Present**
 - Advisor: Prof. Seungryong Cho
 
 **Master of Science in Nuclear and Quantum Engineering, KAIST, Daejeon, South Korea, February 2023**
