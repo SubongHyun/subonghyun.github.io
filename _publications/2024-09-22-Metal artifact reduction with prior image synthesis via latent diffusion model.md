@@ -2,7 +2,7 @@
 title: "10. Metal artifact reduction with prior image synthesis via latent diffusion model"
 collection: publications
 category: international conferences
-permalink: /presentations/2024-09-23-latentMAR 
+permalink: /presentations/2024-09-24-Metal artifact reduction with
 authors: 'Da-in Choi, Sungho Yun, **Subong Hyun**, Seungryong Cho'
 excerpt: ''
 date: 2024-09-22
