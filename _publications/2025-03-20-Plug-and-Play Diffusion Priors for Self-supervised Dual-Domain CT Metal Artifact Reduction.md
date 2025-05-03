@@ -6,5 +6,5 @@ permalink: /presentations/2025-03-20-Evaluation
 authors: '**Subong Hyun**, Da-in Choi, Sungho Yun, Seoyoung Lee, Seungryong Cho'
 excerpt: ''
 date: 2025-03-20
-venue: 'Poster, The International Forum on Medical Imaging in Asia (IFMIA)'
+venue: 'Poster, The International Forum on Medical Imaging in Asia (IFMIA), 2025'
 ---
