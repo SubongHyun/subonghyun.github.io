@@ -27,6 +27,8 @@ _**Academic Excellence Award**_, Korean Society of Imaging Informatic in Medicin
 
 _**Outstanding Poster Award**_, Korean Society of Medical Physics (KSMP), May 2024
 
+_**Best Poster Award**_, Korean Society of Medical Physics (KSMP), May 2025
+
 💻Research interests
 ======
 1. Computed Tomography (e.g., sparse-view reconstruction, metal artifact reduction, etc. )
