@@ -19,15 +19,17 @@ Welcome! I'm Subong Hyun, a Ph.D. candidate in Nuclear and Quantum Engineering a
 - Advisor: Prof. Seungryong Cho
 
 **Bachelor of Science in Nuclear Engineering, Hanyang University, Seoul, South Korea, February 2021**
-- _Summa Cum Laude_ (GPA: 4.09/4.50)
+- _Summa Cum Laude_ (GPA: 4.08/4.50, 2/43)
 
 🏆Honors & Awards
 ======
-_**Academic Excellence Award**_, Korean Society of Imaging Informatic in Medicine (KSIIM), July 2024
-
-_**Outstanding Poster Award**_, Korean Society of Medical Physics (KSMP), May 2024
-
 _**Best Poster Award**_, Korean Society of Medical Physics (KSMP), May 2025
+
+_**AAPM CT metal artifact reduction challenge Top 5**_, American Association of Physicists in Medicine (AAPM), July 2024
+
+_**Academic Excellence Award**_, Korean Society of Imaging Informatic in Medicine (KSIIM), July 2024 
+
+_**Outstanding Poster Award**_, Korean Society of Medical Physics (KSMP), May 2024 
 
 💻Research interests
 ======
