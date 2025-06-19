@@ -79,7 +79,9 @@ publication_category:
   books:
     title: 'Books'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Journal Articles'
+  Journal papers:
+    title: 'Journal paper'
   international conferences:
     title: 'International Conference'
   domestic conferences:
