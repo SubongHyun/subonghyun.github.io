@@ -81,11 +81,11 @@ publication_category:
   manuscripts:
     title: 'Journal Articles'
   Journal papers:
-    title: 'Journal paper'
+    title: '📚Journal Articles'
   international conferences:
-    title: 'International Conference'
+    title: '🗣️International Conference'
   domestic conferences:
-    title: 'Domestic Conference (Korea)'
+    title: '🗣️Domestic Conference (Korea)'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
