@@ -6,5 +6,5 @@ permalink: /presentations/2022-07-22
 authors: '**Subong Hyun**, Seoyoung Lee, Hyeongseok Kim, Seungryong Cho'
 excerpt: ''
 date: 2022-07-22
-venue: 'Oral, American Association of Physicists in Medicine (AAPM)'
+venue: '**Oral**, American Association of Physicists in Medicine (AAPM)'
 ---
