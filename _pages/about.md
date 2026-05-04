@@ -19,7 +19,7 @@ Welcome! I'm Subong Hyun, a Ph.D. candidate in Nuclear and Quantum Engineering a
 - Advisor: Prof. Seungryong Cho
 
 **Bachelor of Science in Nuclear Engineering, Hanyang University, Seoul, South Korea, February 2021**
-- _Summa Cum Laude_ (GPA: 4.08/4.50, 2/43)
+- _Summa Cum Laude_ (2/43)
 
 🏆Honors & Awards
 ======
