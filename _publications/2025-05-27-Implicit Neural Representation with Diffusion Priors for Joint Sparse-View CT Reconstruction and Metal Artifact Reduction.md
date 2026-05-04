@@ -6,5 +6,5 @@ permalink: /presentations/2025-05-27-Implicit Neural Representation with Diffusi
 authors: '**Subong Hyun**, Sungho Yun, Seoyoung Lee, Da-in Choi, Seungryong Cho'
 excerpt: ''
 date: 2025-05-27
-venue: '**Oral**, 18th International Meeting on Fully Three-Dimensional Image Reconstruction in Radiology and Nuclear Medicine (Fully3D)'
+venue: '<strong>Oral</strong>, 18th International Meeting on Fully Three-Dimensional Image Reconstruction in Radiology and Nuclear Medicine (Fully3D)'
 ---
