@@ -6,5 +6,5 @@ permalink: /presentations/2024-06-22-Asymmetric scatter kernel
 authors: '**Subong Hyun**, Seoyoung Lee, Uijin Jeong, Seungryong Cho'
 excerpt: ''
 date: 2024-06-22
-venue: 'Oral, 17th International Workshop on Breast Imaging (IWBI)'
+venue: '**Oral**, 17th International Workshop on Breast Imaging (IWBI)'
 ---
