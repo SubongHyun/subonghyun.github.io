@@ -6,5 +6,5 @@ permalink: /presentations/2024-06-22-A YOLO
 authors: 'Seoyoung Lee, **Subong Hyun**, Donghyun Kim, Seungryong Cho'
 excerpt: ''
 date: 2024-06-22
-venue: '**Oral**, 17th International Workshop on Breast Imaging (IWBI)'
+venue: '<strong>Oral</strong>, 17th International Workshop on Breast Imaging (IWBI)'
 ---
