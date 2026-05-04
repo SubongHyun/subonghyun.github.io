@@ -6,5 +6,5 @@ permalink: /presentations/2025-06-22
 authors: '**Subong Hyun**, Seoyoung Lee, Seungryong Cho'
 excerpt: ''
 date: 2026-06-22
-venue: '9th International Conference on Image Formation in X-Ray Computed Tomography (CT Meeting)'
+venue: 'Poster, 9th International Conference on Image Formation in X-Ray Computed Tomography (CT Meeting)'
 ---
