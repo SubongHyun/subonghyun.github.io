@@ -9,6 +9,20 @@ redirect_from:
 
 Welcome! I'm Subong Hyun, a Ph.D. candidate in Nuclear and Quantum Engineering at KAIST, South Korea. My academic journey began with a B.S. in Nuclear Engineering from Hanyang University, followed by an M.S. from KAIST. My research passion lies in advancing X-ray imaging and exploring the intersection of deep learning and medical imaging, with a focus on Computed Tomography and Digital Breast Tomosynthesis. Thank you for visiting my webpage!
 
+💼Professional Experiences
+======
+**KAIST, Daejeon, South Korea, September 2026 - present**
+- Postdoctoral Research Fellow
+- Medical Imaging and Radiotherapeutic Laboratory, Dept. of Nuclear and quantum engineering
+- Advisor: Prof. Seungryong Cho
+
+**Master of Science in Nuclear and Quantum Engineering, KAIST, Daejeon, South Korea, February 2023**
+- Thesis: Deep-unfolding-network-based non-blind deblurring for fast-rotating wide-angle digital breast tomosynthesis
+- Advisor: Prof. Seungryong Cho
+
+**Bachelor of Science in Nuclear Engineering, Hanyang University, Seoul, South Korea, February 2021**
+- _Summa Cum Laude_ (2/43)
+
 🎓Education
 ======
 **Doctor of Philosophy in Nuclear and Quantum Engineering, KAIST, Daejeon, South Korea, August 2026**
