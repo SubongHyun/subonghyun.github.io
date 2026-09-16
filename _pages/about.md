@@ -13,7 +13,7 @@ Welcome! I'm Subong Hyun, a Ph.D. candidate in Nuclear and Quantum Engineering a
 ======
 **KAIST, Daejeon, South Korea, September 2026 - present**
 - Postdoctoral Research Fellow
-- Medical Imaging and Radiotherapeutic Laboratory, Dept. of Nuclear and quantum engineering
+- Medical Imaging and Radiotherapeutic Laboratory, Dept. of Nuclear and Quantum Engineering
 - Advisor: Prof. Seungryong Cho
 
 🎓Education
