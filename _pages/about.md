@@ -42,6 +42,6 @@ _**Outstanding Poster Award**_, Korean Society of Medical Physics (KSMP), May 20
 💻Research interests
 ======
 1. Computed Tomography (e.g., sparse-view reconstruction, metal artifact reduction, etc. )
-2. Digital Breast Tomosynthesis (e.g., motion blur correction, scatter correction, high-density object artifact reduction, synthetic 2D image generation, slab generation, etc.)
+2. Digital Breast Tomosynthesis (e.g., motion blur correction, scatter correction, high-density-object artifact reduction, image synthesis, etc.)
 3. AI Applications in Medical Imaging (e.g., Convolutional Neural Networks (CNNs), Generative Adversarial Networks (GANs), Denoising Diffusion Probabilistic Models (DDPMs), Implicit Neural Representations (INRs), etc.)
 
