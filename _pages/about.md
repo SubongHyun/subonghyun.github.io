@@ -7,9 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am Subong Hyun, a postdoctoral researcher in the Department of Nuclear and Quantum Engineering at KAIST, South Korea. I received my B.S. in Nuclear Engineering from Hanyang University and my M.S. and Ph.D. in Nuclear and Quantum Engineering from KAIST.
-My research focuses on medical imaging, particularly X-ray imaging modalities such as computed tomography (CT) and digital breast tomosynthesis (DBT). I am especially interested in developing deep learning-based methods for image reconstruction, artifact reduction, and image quality enhancement.
-Thank you for visiting my webpage!
+Welcome! I am Subong Hyun, a postdoctoral researcher in the Department of Nuclear and Quantum Engineering at KAIST, South Korea. I received my B.S. in Nuclear Engineering from Hanyang University and my M.S. and Ph.D. in Nuclear and Quantum Engineering from KAIST. My research focuses on medical imaging, particularly X-ray imaging modalities such as computed tomography (CT) and digital breast tomosynthesis (DBT). I am especially interested in developing deep learning-based methods for image reconstruction, artifact reduction, and image quality enhancement. Thank you for visiting my webpage!
 
 
 💼Professional Experiences
@@ -44,5 +42,6 @@ _**Outstanding Poster Award**_, Korean Society of Medical Physics (KSMP), May 20
 💻Research interests
 ======
 1. Computed Tomography (e.g., sparse-view reconstruction, metal artifact reduction, etc. )
-2. Digital Breast Tomosynthesis (e.g., motion blur, scatter correction, etc.)
-3. AI application in medical imaging (e.g., Convolutional Neural Networks (CNN), Generative Adversarial Networks (GAN), Denoising Diffusion Probabilistic Models (DDPM), etc.)
+2. Digital Breast Tomosynthesis (e.g., motion blur correction, scatter correction, high-density object artifact reduction, synthetic 2D image generation, slab generation, etc.)
+3. AI Applications in Medical Imaging (e.g., Convolutional Neural Networks (CNNs), Generative Adversarial Networks (GANs), Denoising Diffusion Probabilistic Models (DDPMs), Implicit Neural Representations (INRs), etc.)
+
