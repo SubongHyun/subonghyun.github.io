@@ -6,5 +6,6 @@ permalink: /presentations/2026-12-22
 authors: '**Subong Hyun**, Donghyun Kim, Seoyoung Lee, Seungryong Cho'
 excerpt: ''
 date: 2026-12-22
-venue: 'Poster, 26th Asia-Oceania Congress of Medical Physics (AOCMP)'
+venue: '26th Asia-Oceania Congress of Medical Physics (AOCMP)'
+presentation: poster
 ---

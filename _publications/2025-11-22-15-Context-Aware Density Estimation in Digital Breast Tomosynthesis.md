@@ -7,5 +7,6 @@ authors: 'Sunho Lim, **Subong Hyun**, Joonil Hwang, Hyunwoo Moon, Dohyun Lim, Se
 paperurl: 'https://doi.org/10.1109/NSS/MIC/RTSD57106.2025.11286279'
 excerpt: ''
 date: 2025-11-22
-venue: 'Poster, IEEE NSS MIC RTSD (IEEE NPSS)'
+venue: 'IEEE NSS MIC RTSD (IEEE NPSS)'
+presentation: poster
 ---

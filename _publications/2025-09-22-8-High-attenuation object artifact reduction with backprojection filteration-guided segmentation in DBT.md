@@ -6,5 +6,6 @@ permalink: /presentations/2025-09-22
 authors: '**Subong Hyun**, Seoyoung Lee, Seungryong Cho'
 excerpt: ''
 date: 2025-09-22
-venue: 'Poster, Korean Society of Medical Physics (KSMP)'
+venue: 'Korean Society of Medical Physics (KSMP)'
+presentation: poster
 ---

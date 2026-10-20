@@ -7,5 +7,6 @@ authors: 'Seoyoung Lee, **Subong Hyun**, Seungryong Cho'
 paperurl: 'https://doi.org/10.1117/12.3048727'
 excerpt: ''
 date: 2025-02-22
-venue: 'Poster, Physics of Medical Imaging (SPIE)'
+venue: 'Physics of Medical Imaging (SPIE)'
+presentation: poster
 ---

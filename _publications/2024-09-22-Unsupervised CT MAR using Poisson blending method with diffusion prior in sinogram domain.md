@@ -6,5 +6,6 @@ permalink: /presentations/2024-09-22-Unsupervised CT MAR using Poisson blending 
 authors: '**Subong Hyun**, Da-in Choi, Sungho Yun, Seungryong Cho'
 excerpt: ''
 date: 2024-09-22
-venue: '<strong>Oral</strong>, 10th Japan-Korea Joint Meeting on Medical Physics (JKMP)'
+venue: '10th Japan-Korea Joint Meeting on Medical Physics (JKMP)'
+presentation: oral
 ---

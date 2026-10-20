@@ -7,5 +7,6 @@ authors: 'Jeongtae Soh, **Subong Hyun**, Hyeongseok Kim, Mikiko Ito, Young-jun J
 paperurl: 'https://doi.org/10.1117/12.2653045'
 excerpt: ''
 date: 2023-02-22
-venue: 'Poster, Image Processing (SPIE)'
+venue: 'Image Processing (SPIE)'
+presentation: poster
 ---

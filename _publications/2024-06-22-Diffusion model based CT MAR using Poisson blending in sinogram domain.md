@@ -6,5 +6,6 @@ permalink: /presentations/2024-06-22-Diffusion model based CT MAR using Poisson 
 authors: '**Subong Hyun**, Da-in Choi, Sungho Yun, Seoyoung Lee, Seungryong Cho'
 excerpt: ''
 date: 2024-06-22
-venue: 'Poster, Korean Society of Imaging Informatics in Medicine (KSIIM)'
+venue: 'Korean Society of Imaging Informatics in Medicine (KSIIM)'
+presentation: poster
 ---

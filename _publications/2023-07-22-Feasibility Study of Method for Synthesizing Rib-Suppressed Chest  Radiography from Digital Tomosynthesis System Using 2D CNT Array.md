@@ -6,5 +6,6 @@ permalink: /presentations/2023-07-23-Feasibility Study of Method for Synthesizin
 authors: '**Subong Hyun**, Hyeongseok Kim, Jeongtae Soh, Seungryong Cho'
 excerpt: ''
 date: 2023-07-23
-venue: 'Poster, American Association of Physicists in Medicine (AAPM)'
+venue: 'American Association of Physicists in Medicine (AAPM)'
+presentation: poster
 ---

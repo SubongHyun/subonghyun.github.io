@@ -6,5 +6,6 @@ permalink: /presentations/2023-07-22-Enhancing of Scout Scan
 authors: 'Seoyoung Lee, **Subong Hyun**, Seungryong Cho'
 excerpt: ''
 date: 2023-07-22
-venue: 'Poster, American Association of Physicists in Medicine (AAPM)'
+venue: 'American Association of Physicists in Medicine (AAPM)'
+presentation: poster
 ---

@@ -6,5 +6,6 @@ permalink: /presentations/2023-10-22
 authors: '**Subong Hyun**, Seoyoung Lee, Donghyun Kim, Seungryong Cho'
 excerpt: ''
 date: 2023-10-22
-venue: 'Poster, Korean Society of Radiation Industry (KSRI)'
+venue: 'Korean Society of Radiation Industry (KSRI)'
+presentation: poster
 ---

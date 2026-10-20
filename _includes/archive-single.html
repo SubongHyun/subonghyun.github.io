@@ -75,8 +75,11 @@
       <p style="font-size: smaller;">Download <a href="{{ post.slidesurl }}">Download Slides</a></p></p>
     {% endif %}
 
-    {% if post.collection == 'publications' and post.paperurl %}
-      <p style="font-size: smaller;"><a href="{{ post.paperurl }}" target="_blank" rel="noopener" style="display: inline-block; padding: 0.1em 0.6em; border: 1px solid currentColor; border-radius: 3px; text-decoration: none;">{% if post.category contains 'conferences' %}Proceeding{% else %}Paper{% endif %}</a></p>
+    {% if post.collection == 'publications' and post.presentation or post.paperurl %}
+      <p style="font-size: smaller;">
+        {% if post.presentation == 'oral' %}<span style="display: inline-block; padding: 0.1em 0.6em; border: 1px solid #c0392b; border-radius: 3px; background: #c0392b; color: #fff;">Oral</span>{% elsif post.presentation == 'poster' %}<span style="display: inline-block; padding: 0.1em 0.6em; border: 1px solid #7f8c8d; border-radius: 3px; color: #7f8c8d;">Poster</span>{% endif %}
+        {% if post.paperurl %}<a href="{{ post.paperurl }}" target="_blank" rel="noopener" style="display: inline-block; padding: 0.1em 0.6em; border: 1px solid currentColor; border-radius: 3px; text-decoration: none;">{% if post.category contains 'conferences' %}Proceeding{% else %}Paper{% endif %}</a>{% endif %}
+      </p>
     {% endif %}
 
     {% if post.thumbnail %}
