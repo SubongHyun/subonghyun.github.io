@@ -5,6 +5,7 @@ category: Journal papers
 permalink: /presentations/2025-07-10
 authors: 'Seoyoung Lee, **Subong Hyun**, Donghyun Kim, Hak Hee Kim, Hee Jeong Kim, Ilwoong Choi, Choul Woo Shin, Seungryong Cho'
 paperurl: 'https://doi.org/10.1117/1.JMI.12.S2.S22016'
+thumbnail: '/images/publications/jmi-2025-scout-scan.jpg'
 excerpt: ''
 date: 2025-07-10
 venue: 'Journal of Medical Imaging (JMI)'
