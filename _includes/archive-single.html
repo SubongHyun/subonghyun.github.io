@@ -76,7 +76,7 @@
     {% endif %}
 
     {% if post.collection == 'publications' and post.paperurl %}
-      <p style="font-size: smaller;"><a href="{{ post.paperurl }}" target="_blank" rel="noopener" style="display: inline-block; padding: 0.1em 0.6em; border: 1px solid currentColor; border-radius: 3px; text-decoration: none;">Paper</a></p>
+      <p style="font-size: smaller;"><a href="{{ post.paperurl }}" target="_blank" rel="noopener" style="display: inline-block; padding: 0.1em 0.6em; border: 1px solid currentColor; border-radius: 3px; text-decoration: none;">{% if post.category contains 'conferences' %}Proceeding{% else %}Paper{% endif %}</a></p>
     {% endif %}
 
     {% if post.thumbnail %}
