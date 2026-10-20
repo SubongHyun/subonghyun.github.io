@@ -77,8 +77,8 @@
 
     {% if post.collection == 'publications' and post.presentation or post.paperurl %}
       <p style="font-size: smaller;">
-        {% if post.presentation == 'oral' %}<span style="display: inline-block; padding: 0.1em 0.6em; border: 1px solid #c0392b; border-radius: 3px; background: #c0392b; color: #fff;">Oral</span>{% elsif post.presentation == 'poster' %}<span style="display: inline-block; padding: 0.1em 0.6em; border: 1px solid #7f8c8d; border-radius: 3px; color: #7f8c8d;">Poster</span>{% endif %}
-        {% if post.paperurl %}<a href="{{ post.paperurl }}" target="_blank" rel="noopener" style="display: inline-block; padding: 0.1em 0.6em; border: 1px solid currentColor; border-radius: 3px; text-decoration: none;">{% if post.category contains 'conferences' %}Proceeding{% else %}Paper{% endif %}</a>{% endif %}
+        {% if post.presentation == 'oral' %}<span style="display: inline-block; padding: 0.1em 0.6em; border: 1px solid #e07a1f; border-radius: 3px; color: #e07a1f;">Oral</span>{% elsif post.presentation == 'poster' %}<span style="display: inline-block; padding: 0.1em 0.6em; border: 1px solid #2a9d8f; border-radius: 3px; color: #2a9d8f;">Poster</span>{% endif %}
+        {% if post.paperurl %}{% if post.category contains 'conferences' %}{% assign link_label = 'Proceeding' %}{% assign link_color = '#8e44ad' %}{% else %}{% assign link_label = 'Paper' %}{% assign link_color = '#2468c8' %}{% endif %}<a href="{{ post.paperurl }}" target="_blank" rel="noopener" style="display: inline-block; padding: 0.1em 0.6em; border: 1px solid {{ link_color }}; border-radius: 3px; color: {{ link_color }}; text-decoration: none;">{{ link_label }}</a>{% endif %}
       </p>
     {% endif %}
 
