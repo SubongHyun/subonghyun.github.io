@@ -5,7 +5,7 @@ category: Journal papers
 permalink: /presentations/2025-06-20
 authors: '**Subong Hyun**, Seoyoung Lee, Ilwoong Choi, Choul Woo Shin, Seungryong Cho'
 paperurl: 'https://doi.org/10.1117/1.JMI.12.S2.S22008'
-thumbnail: '/images/publications/jmi-2025-askn-scatter.jpg'
+thumbnail: '/images/publications/jmi-2025-askn-scatter-fig8.jpg'
 excerpt: ''
 date: 2025-06-20
 venue: 'Journal of Medical Imaging (JMI)'

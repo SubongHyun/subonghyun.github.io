@@ -27,9 +27,12 @@
     {% endif %}
 
     {% if post.thumbnail %}
-      <div style="margin: 0.8em 0 0.5em;">
-        {% if post.paperurl %}<a href="{{ post.paperurl }}" target="_blank" rel="noopener">{% endif %}<img src="{{ post.thumbnail | prepend: base_path }}" alt="{{ title }}" loading="lazy" style="display: block; width: 100%; max-width: 520px; height: auto; border: 1px solid #ddd; border-radius: 4px;">{% if post.paperurl %}</a>{% endif %}
+    <!-- Thumbnail left, text right; wraps to stacked on narrow screens -->
+    <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 1.2em; margin: 0.8em 0;">
+      <div style="flex: 0 0 240px; max-width: 100%;">
+        {% if post.paperurl %}<a href="{{ post.paperurl }}" target="_blank" rel="noopener">{% endif %}<img src="{{ post.thumbnail | prepend: base_path }}" alt="{{ title }}" loading="lazy" style="display: block; width: 100%; height: 160px; object-fit: contain; background: #fff; border: 1px solid #ddd; border-radius: 4px;">{% if post.paperurl %}</a>{% endif %}
       </div>
+      <div style="flex: 1 1 280px; min-width: 0;">
     {% endif %}
 
     <!-- Title links to the paper when paperurl is set -->
@@ -72,5 +75,13 @@
       <p style="font-size: smaller;">Download <a href="{{ post.slidesurl }}">Download Slides</a></p></p>
     {% endif %}
 
+    {% if post.collection == 'publications' and post.paperurl %}
+      <p style="font-size: smaller;"><a href="{{ post.paperurl }}" target="_blank" rel="noopener" style="display: inline-block; padding: 0.1em 0.6em; border: 1px solid currentColor; border-radius: 3px; text-decoration: none;">Paper</a></p>
+    {% endif %}
+
+    {% if post.thumbnail %}
+      </div>
+    </div>
+    {% endif %}
   </article>
 </div>
