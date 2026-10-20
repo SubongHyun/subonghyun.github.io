@@ -26,9 +26,9 @@
       </div>
     {% endif %}
 
-    <!-- Title is no longer clickable -->
+    <!-- Title links to the paper when paperurl is set -->
     <h2 class="archive__item-title" itemprop="headline" style="font-size: 1.0em">
-      {{ title }}
+      {% if post.paperurl %}<a href="{{ post.paperurl }}" target="_blank" rel="noopener">{{ title }}</a>{% else %}{{ title }}{% endif %}
     </h2>
 
     
@@ -62,8 +62,6 @@
       <p style="font-size: smaller;">Recommended citation: {{ post.citation }}<br /><a href="{{ post.slidesurl }}">Download Slides</a></p>
     {% elsif post.citation %}
       <p style="font-size: smaller;">Recommended citation: {{ post.citation }}</p>
-    {% elsif post.paperurl %}
-      <p style="font-size: smaller;"><a href="{{ post.paperurl }}">Download Paper</a></p>
     {% elsif post.slidesurl %}
       <p style="font-size: smaller;">Download <a href="{{ post.slidesurl }}">Download Slides</a></p></p>
     {% endif %}

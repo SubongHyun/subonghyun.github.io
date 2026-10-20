@@ -1,5 +1,5 @@
 ---
-title: "19. A Synthesizing Method for Slab Image from Digital Breast Tomosynthesis "
+title: "19. A Synthesizing Method for Slab Image from Digital Breast Tomosynthesis"
 collection: publications
 category: international conferences
 permalink: /presentations/2026-12-22
