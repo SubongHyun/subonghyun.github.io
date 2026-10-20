@@ -1,5 +1,5 @@
 ---
-title: "17. Efficient Projection Correction Approach for High-Density Object Artifact Reduction in Digital Breast Tomosynthesis"
+title: "18. Efficient Projection Correction Approach for High-Density Object Artifact Reduction in Digital Breast Tomosynthesis"
 collection: publications
 category: international conferences
 permalink: /presentations/2026-06-22

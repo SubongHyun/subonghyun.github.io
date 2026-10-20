@@ -1,5 +1,5 @@
 ---
-title: "18. Preliminary Study on Thick-Slab Image Generation of Digital Breast Tomosynthesis"
+title: "19. Preliminary Study on Thick-Slab Image Generation of Digital Breast Tomosynthesis"
 collection: publications
 category: international conferences
 permalink: /presentations/2026-11-22
