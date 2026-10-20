@@ -27,7 +27,7 @@
     {% endif %}
 
     {% if post.thumbnail %}
-      <div style="float: left; width: 200px; max-width: 40%; margin: 0.3em 1em 0.5em 0;">
+      <div style="float: right; width: 140px; max-width: 30%; margin: 0.3em 0 0.5em 1em;">
         {% if post.paperurl %}<a href="{{ post.paperurl }}" target="_blank" rel="noopener">{% endif %}<img src="{{ post.thumbnail | prepend: base_path }}" alt="{{ title }}" loading="lazy" style="width: 100%; border: 1px solid #ddd; border-radius: 4px;">{% if post.paperurl %}</a>{% endif %}
       </div>
     {% endif %}
